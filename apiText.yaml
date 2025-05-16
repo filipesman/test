@@ -8,4 +8,4 @@ spec:
   owner: guests
   system: examples
   definition: 
-    $text: https://github.com/filipesman/test/blob/main/api.json
+    $text: https://github.com/filipesman/test/blob/main/vehicle.yaml
