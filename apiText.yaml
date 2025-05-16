@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha2
+kind: API
+metadata:
+  name: portal-api
+spec:
+  type: openapi
+  lifecycle: experimental
+  owner: guests
+  system: examples
+  definition: 
+    $text: https://github.com/filipesman/test/blob/main/api.json
